@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+
+body {
+	margin: 0;
+	padding: 1px;
+	background: #C00000 url(images/quadrillage.png)
+}
+
+p {
+	margin: 20px;
+	padding: 10px;
+	background-color: #FFFAFA;
+}
